@@ -6,7 +6,7 @@
     "author": "Isaac Graves",
     "license": "MIT",
     "type": "module",
-    "source": "csto.js",
+    "source": "csto.ts",
     "exports": {
         "require": "./dist/csto.cjs",
         "default": "./dist/csto.modern.js"
